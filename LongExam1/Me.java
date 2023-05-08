@@ -30,7 +30,7 @@ public class Me implements Tourist {
 
 
         System.out.print("Exploring.. Boracay: ");
-        System.out.println("I LOOVEE how the clear water is");
+        System.out.println("I LOOVEE how the clear water is!");
         checkBudget();
         System.out.println("  ");
         System.out.println("-"); 
