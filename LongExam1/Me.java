@@ -81,7 +81,7 @@ public class Me implements Tourist {
 
         budget -= vigan.airFare;
 
-        System.out.print("Exploring.. Vigan:  ");
+        System.out.print("Exploring.. Vigan: ");
         System.out.println("Walking around Calle Crisologo is unreal.");
         checkBudget();
         System.out.println("  ");
