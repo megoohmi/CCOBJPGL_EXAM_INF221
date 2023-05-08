@@ -68,7 +68,7 @@ public class Me implements Tourist {
 
         budget -= siargao.airFare;
 
-        System.out.print("Exploring.. Siargao:  ");
+        System.out.print("Exploring.. Siargao: ");
         System.out.println("Surfing at Cloud 9 is such a SLAY experience!");
         checkBudget();
         System.out.println("  ");
